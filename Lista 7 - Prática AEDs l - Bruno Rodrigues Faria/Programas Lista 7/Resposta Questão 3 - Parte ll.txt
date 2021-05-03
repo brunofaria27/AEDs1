@@ -1,0 +1,3 @@
+Número mínimo de comparações (melhor caso) : 1 (quando o número pesquisado está na primeira posição do vetor).
+Número máximo de comparações (pior caso) : 2n + 2 (quando o número pesquisado não está contido no vetor).
+Quando n = 10, fazemos 1 comparação parar o melhor caso, e 2n + 2 (22) comparações para o pior caso.
