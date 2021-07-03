@@ -5,3 +5,4 @@ Programas desenvolvidos durante o primeiro período de Ciências da Computação
 - Para executar os progrmas baixe ou copie os códigos.
 - Abra um editor de texto na Web ou no seu computador `(Replit, GDB Online, VsCode)`.
 - Compile e rode o programa.
+- Todos assuntos tratados em C
